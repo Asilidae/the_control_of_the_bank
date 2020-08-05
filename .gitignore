@@ -1,3 +1,5 @@
 config.env
 .idea/
 venv/
+datacenter/__pycache__/
+project/__pycache__/

@@ -28,6 +28,25 @@ Python3 должен быть уже установлен.
 pip install -r requirements.txt
 ```
 
+### Как запустить
+
+Чтобы запустить скрипт, необходимо из директории проекта выполнить команду `python manage.py runserver`.
+
+Пример вывода консоли:
+```
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+August 06, 2020 - 01:12:10
+Django version 3.0.9, using settings 'project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+```
+
+Проверить работоспособность можно по указанному адресу (в указанном примере `http://127.0.0.1:8000/`).
+
 ### Цель проекта
 
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://dvmn.org/).

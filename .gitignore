@@ -3,3 +3,4 @@ config.env
 venv/
 datacenter/__pycache__/
 project/__pycache__/
+datacenter/migrations/__pycache__/
